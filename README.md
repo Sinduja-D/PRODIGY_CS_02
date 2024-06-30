@@ -1,4 +1,5 @@
 **Pixel Manipulation For Image Encryption** 
+
 Pixel manipulation for image encryption and decryption involves altering the pixel values of an image to encode or hide information for secure communication. 
 
 Here's an overview of how pixel manipulation can be used for image encryption and decryption:
